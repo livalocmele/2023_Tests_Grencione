@@ -9,7 +9,7 @@
 #5 Feldmane Laura
 
 #6 Karpoviča Zlata
-
+(2**2)*2
 #7 Kļimova Anna
 
 #8 Kokoreviča Diāna
