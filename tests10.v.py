@@ -17,7 +17,7 @@
 #9 Krastiņš Guntis
 
 #10 Ločmele Līva
-
+20*96+53
 #11 Milliņš Māris
 
 #12 Plonis Gustavs
